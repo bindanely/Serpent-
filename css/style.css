@@ -699,7 +699,7 @@ ul.email li i {
 
 .chose {
      padding: 90px 0 60px 0;
-     background: #323232;
+     background: #ededed;
 }
 
 .chose .titlepage::before {
@@ -708,11 +708,11 @@ ul.email li i {
 }
 
 .chose .titlepage h2 {
-     color: #fff;
+     color: rgb(26, 26, 26);
 }
 
 .chose.chose .titlepage p {
-     color: #fff;
+     color: rgb(36, 35, 35);
      padding-top: 15px;
 }
 
@@ -722,7 +722,7 @@ ul.email li i {
 
 .chose_box h3 {
      padding-top: 20px;
-     color: #fff;
+     color: rgb(33, 33, 33);
      font-weight: bold;
      font-size: 30px;
      line-height: 35px;
@@ -730,7 +730,7 @@ ul.email li i {
 
 .chose_box strong {
      display: block;
-     color: #fff;
+     color: rgb(20, 20, 20);
      font-weight: bold;
      font-size: 48px;
      line-height: 60px;
@@ -738,8 +738,8 @@ ul.email li i {
 }
 
 .chose_box .read_more {
-     background: #fff;
-     color: #323232;
+     background: rgb(29, 29, 29);
+     color: #f7f7f7;
      max-width: 176px;
      line-height: 47px;
      height: 47px;
