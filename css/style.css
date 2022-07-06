@@ -298,7 +298,7 @@ header
 
 .header {
      width: 100%;
-     background: rgba(119, 149, 157, 0.87);
+     background: rgba(87, 87, 87, 0.87);
      height: 90px;
      padding: 37px 30px;
      position: absolute;
@@ -370,7 +370,7 @@ ul.email li i {
 /** banner_main **/
 
 #top_section {
-     background-image: url('../images/banner\ webp.webp');
+     background-image: url('../images/banner\ koze.webp');
      background-size: cover;
      background-repeat: no-repeat;
      padding-top: 120px;
